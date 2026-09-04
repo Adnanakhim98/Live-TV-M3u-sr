@@ -158,3 +158,202 @@ https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 
 #EXTINF:-1 tvg-id="news24.bd" tvg-name="News 24" group-title="News",News 24
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+
+#EXTM3U
+
+# ==================== MUSIC ====================
+
+#EXTINF:-1 tvg-id="b4u.in" tvg-name="B4U Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/B4U_Music.png" group-title="Music",B4U Music
+https://cdn-2.pishow.tv/live/415/master.m3u8
+
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="Zoom" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/Zoom_TV_logo.png" group-title="Music",Zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sanggeetbangla.in" tvg-name="Sanggeet Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/B4U_Music.png" group-title="Music",Sanggeet Bangla
+https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
+
+#EXTINF:-1 tvg-id="sangeethbangla.in" tvg-name="Sangeet Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/B4U_Music.png" group-title="Music",Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+
+#EXTINF:-1 tvg-id="musicindia.in" tvg-name="Music India" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/9X_Jalwa.png" group-title="Music",Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
+#EXTINF:-1 tvg-id="khushboobangla.in" tvg-name="Khushboo Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/B4U_Music.png" group-title="Music",Khushboo Bangla
+https://cdn-4.pishow.tv/live/1473/master.m3u8
+
+
+# ==================== BANGLA ====================
+
+#EXTINF:-1 tvg-id="bijoytv.bd" tvg-name="Bijoy TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Bijoy_TV_Logo.png" group-title="Bangla",Bijoy TV
+https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="channel1.bd" tvg-name="Channel 1" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Channel_1_Bangladesh_logo.png" group-title="Bangla",Channel 1
+https://stream.ottplus.bd/live/channel_1_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="channels.bd" tvg-name="Channel S" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Channel_S_logo.png" group-title="Bangla",Channel S
+https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="boishakhitv.bd" tvg-name="Boishakhi TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Boishakhi_TV_logo.png" group-title="Bangla",Boishakhi TV
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="asiantv.bd" tvg-name="Asian TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Asian_TV_Bangladesh_logo.png" group-title="Bangla",Asian TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="deeptotv.bd" tvg-name="Deepto TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Deepto_TV_logo.png" group-title="Bangla",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 tvg-id="nagoriktv.bd" tvg-name="Nagorik TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Nagorik_TV_logo.png" group-title="Bangla",Nagorik TV
+https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ntv.bd" tvg-name="NTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/NTV_Bangladesh_logo.png" group-title="Bangla",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+
+#EXTINF:-1 tvg-id="rtv.bd" tvg-name="RTV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/RTV_Bangladesh_logo.png" group-title="Bangla",RTV
+http://tvsen5.aynascope.net/RtvHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ekattortv.bd" tvg-name="Ekattor TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Ekattor_TV_logo.png" group-title="Bangla",Ekattor TV
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+
+#EXTINF:-1 tvg-id="jamunatv.bd" tvg-name="Jamuna TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Jamuna_TV_logo.png" group-title="Bangla",Jamuna TV
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+
+#EXTINF:-1 tvg-id="metv.bd" tvg-name="ME TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ME_TV_logo.png" group-title="Bangla",ME TV
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 tvg-id="mytv.bd" tvg-name="My TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/My_TV_Bangladesh_logo.png" group-title="Bangla",My TV
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
+
+#EXTINF:-1 tvg-id="nrb.tv" tvg-name="NRB TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/NRB_TV_logo.png" group-title="Bangla",NRB TV
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rajdhani.tv" tvg-name="Rajdhani TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Rajdhani_TV_logo.png" group-title="Bangla",Rajdhani TV
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
+#EXTINF:-1 tvg-id="srktv.bd" tvg-name="SRK TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/SRK_TV_logo.png" group-title="Bangla",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="banglatv.bd" tvg-name="Bangla TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Bangla_TV_logo.png" group-title="Bangla",Bangla TV
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
+
+#EXTINF:-1 tvg-id="channel24.bd" tvg-name="Channel 24" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Channel_24_logo.png" group-title="Bangla",Channel 24
+https://tvsen6.aynaott.com/YrVDF8gu/index.m3u8
+
+#EXTINF:-1 tvg-id="etv.bd" tvg-name="ETV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ETV_Bangladesh_logo.png" group-title="Bangla",ETV
+https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
+
+#EXTINF:-1 tvg-id="globaltv.bd" tvg-name="Global TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Global_TV_Bangladesh_logo.png" group-title="Bangla",Global TV
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
+
+#EXTINF:-1 tvg-id="mohonatv.bd" tvg-name="Mohona TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Mohona_TV_logo.png" group-title="Bangla",Mohona TV
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
+
+#EXTINF:-1 tvg-id="anandatv.bd" tvg-name="Ananda TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Ananda_TV_logo.png" group-title="Bangla",Ananda TV
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="atnbangla.bd" tvg-name="ATN Bangla" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/ATN_Bangla_logo.png" group-title="Bangla",ATN Bangla
+https://tvsen5.aynaott.com/atnbangla/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="channeli.bd" tvg-name="Channel i" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Channel_i_logo.png" group-title="Bangla",Channel i
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+
+#EXTINF:-1 tvg-id="ekhon.tv" tvg-name="Ekhon TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Ekhon_TV_logo.png" group-title="Bangla",Ekhon TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/tracks-v1a1/mono.ts.m3u8
+
+
+# ==================== NEWS ====================
+
+#EXTINF:-1 tvg-id="dbcnews.bd" tvg-name="DBC News" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/DBC_News_logo.png" group-title="News",DBC News
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
+
+#EXTINF:-1 tvg-id="deshtv.bd" tvg-name="Desh TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Desh_TV_logo.png" group-title="News",Desh TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+
+#EXTINF:-1 tvg-id="channel9.bd" tvg-name="Channel 9" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Channel_9_Bangladesh_logo.png" group-title="News",Channel 9
+https://tvsen6.aynaott.com/kajlsd57jnkdf/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="news24.bd" tvg-name="News 24" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/News24_Bangladesh_logo.png" group-title="News",News 24
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+
+
+# ==================== SPORTS ====================
+
+#EXTINF:-1 tvg-id="sonyten1.in" tvg-name="Sony Ten 1" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Sony_TEN_logo.png" group-title="Sports",Sony Ten 1
+https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="sonyten2.in" tvg-name="Sony Ten 2" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Sony_TEN_logo.png" group-title="Sports",Sony Ten 2
+https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="sonyten5.in" tvg-name="Sony Ten 5" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Sony_TEN_logo.png" group-title="Sports",Sony Ten 5
+https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="tencricket.in" tvg-name="Ten Cricket" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Ten_Cricket_logo.png" group-title="Sports",Ten Cricket
+https://stream.ottplus.bd/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="star-sports-2.in" tvg-name="Star Sports 2" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Star_Sports_logo.png" group-title="Sports",Star Sports 2
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+
+#EXTINF:-1 tvg-id="tsports.bd" tvg-name="T-Sports" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/T_Sports_logo.svg" group-title="Sports",T-Sports
+https://tvsen7.aynaott.com/Sports1/tracks-v1a1/mono.ts.m3u8
+
+
+# ==================== MOVIES ====================
+
+#EXTINF:-1 tvg-id="moviebangla.bd" tvg-name="Movie Bangla" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Movie_Bangla_logo.png" group-title="Movies",Movie Bangla
+https://stream.ottplus.live/live/movie_bangla_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Sony Max" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Sony_Max_logo.png" group-title="Movies",Sony Max
+https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="goldminemovies.in" tvg-name="Goldmine Movies" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Goldmines_Telefilms_logo.png" group-title="Movies",Goldmine Movies
+https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
+
+#EXTINF:-1 tvg-id="goldminemovie.in" tvg-name="Goldmine Movie" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Goldmines_Telefilms_logo.png" group-title="Movies",Goldmine Movie
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-id="jalshamovies.in" tvg-name="Jalsha Movies" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Jalsha_Movies_logo.png" group-title="Movies",Jalsha Movies
+https://iptvlive-beta.vercel.app/jalsha-movies/index.m3u8
+
+#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="Jalsha Movies HD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Jalsha_Movies_logo.png" group-title="Movies",Jalsha Movies HD
+http://103.165.93.31:8095/jalshaMovies/index.m3u8
+
+#EXTINF:-1 tvg-id="shandatv.in" tvg-name="Shandha TV" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Sananda_TV_logo.png" group-title="Movies",Shandha TV
+https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="gseries.bd" tvg-name="G-SERIES" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/G-Series_logo.png" group-title="Movies",G-SERIES
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+
+
+# ==================== ENTERTAINMENT ====================
+
+#EXTINF:-1 tvg-id="enter10bangla.in" tvg-name="Enter 10 Bangla" tvg-logo="https://i.postimg.cc/vBHj3r3J/images-fc0d1242765efd4c1494fbfe4ff65c7a-playmist-enter-10-bangla400x400.jpg" group-title="Entertainment",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sonyaath.in" tvg-name="Sony Aath" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Sony_Aath_logo.svg" group-title="Entertainment",Sony Aath
+https://stream.ottplus.bd/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+
+#EXTINF:-1 tvg-id="colorsbangla.in" tvg-name="Colors Bangla" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Colors_Bangla.png" group-title="Entertainment",Colors Bangla
+https://footfytv.pro/proxy/direct?url=http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
+
+
+# ==================== KIDS ====================
+
+#EXTINF:-1 tvg-id="discoverykids.in" tvg-name="Discovery Kids" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Discovery_Kids_logo.svg" group-title="Kids",Discovery Kids
+https://stream.ottplus.live/live/discovery_kids_abr/live/discovery_kids/chunks.m3u8
+
+#EXTINF:-1 tvg-id="pogo.in" tvg-name="Pogo" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Pogo_logo.svg" group-title="Kids",Pogo
+https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="disney.in" tvg-name="Disney Cartoon" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Disney_Channel_logo.svg" group-title="Kids",Disney Cartoon
+https://tvsen7.aynaott.com/disney/index.m3u8
+
+
+# ==================== INTERNATIONAL / BANGLA ====================
+
+#EXTINF:-1 tvg-id="zeebangla.in" tvg-name="Zee Bangla" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Zee_Bangla_logo.png" group-title="Bangla",Zee Bangla
+https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
+
+#EXTINF:-1 tvg-id="zeebanglasonar.in" tvg-name="Zee Bangla Sonar" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Zee_Bangla_logo.png" group-title="Bangla",Zee Bangla Sonar
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
+
+#EXTINF:-1 tvg-id="animalplanet.in" tvg-name="Animal Planet" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Animal_Planet_logo.svg" group-title="Documentary",Animal Planet
+https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8
