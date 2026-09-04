@@ -38,7 +38,7 @@ https://cdn-2.pishow.tv/live/415/master.m3u8
 #EXTINF:-1 tvg-name="Zoom" group-title="Music",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 tvg-name="Boishakhi TV" group-title="Bangla",Boishakhi TV
+#EXTINF:-1 tvg-id="Boishakhi.in" tvg-name="Boishakhi Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/B4U_Music.png" group-title="Movie",Boishakhi
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Asian TV" group-title="Bangla",Asian TV
