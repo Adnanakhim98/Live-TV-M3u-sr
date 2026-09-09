@@ -317,6 +317,12 @@ https://tvsen3.aynaott.com/z24qLsqV/index.m3u8
 https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
 
 
+# ==================================================
+# LIVE FOOTBALL 
+# ==================================================
+#EXTINF:-1 tvg-id="LIVE FOOTBALL 1" tvg-name="LIVE FOOTBALL 1" tvg-logo="https://i.postimg.cc/CLyK17VB/file-00000000d7f48211aeab0e30c03d0f72.png" group-title="LIVE MATCH", LIVE FOOTBALL  
+https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001788971862-0-0-589b468147000fe68ef2401ba41c80ec 
+
 
 
 
