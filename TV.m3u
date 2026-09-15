@@ -320,17 +320,22 @@ https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
 # ==================================================
 # LIVE FOOTBALL 
 # ==================================================
-#EXTINF:-1 tvg-id="LIVE FOOTBALL 1" tvg-name="LIVE FOOTBALL 1" tvg-logo="https://i.postimg.cc/CLyK17VB/file-00000000d7f48211aeab0e30c03d0f72.png" group-title="LIVE MATCH", LIVE FOOTBALL  
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8 
-
-# ==================================================
-# LIVE Crickets 
-# ==================================================
-#EXTINF:-1 tvg-id="LIVE FOOTBALL 1" tvg-name="LIVE FOOTBALL 1" tvg-logo="https://i.postimg.cc/CLyK17VB/file-00000000d7f48211aeab0e30c03d0f72.png" group-title="LIVE MATCH", LIVE FOOTBALL  
+#EXTINF:-1 tvg-id="LIVE FOOTBALL 1" tvg-name="LIVE FOOTBALL 1" tvg-logo="https://i.postimg.cc/gjRZKB4F/file-00000000cf7481fd95fef21f3d9c349e.png" group-title="LIVE FOOT BALL MATCH", LIVE FOOTBALL 1
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="LIVE FOOTBALL 1" tvg-name="LIVE FOOTBALL 1" tvg-logo="https://i.postimg.cc/CLyK17VB/file-00000000d7f48211aeab0e30c03d0f72.png" group-title="LIVE MATCH", LIVE FOOTBALL  
+#EXTINF:-1 tvg-id="LIVE FOOTBALL 2" tvg-name="LIVE FOOTBALL 2" tvg-logo="https://i.postimg.cc/WpJgjhV1/file-00000000865c81f59b902db10ac7d48f.png" group-title="LIVE FOOT BALL MATCH", LIVE FOOTBALL  2
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="LIVE FOOTBALL 3" tvg-name="LIVE FOOTBALL 3" tvg-logo="https://i.postimg.cc/MZjVxvwG/file-0000000054e0820b9d1f50d3e9f5fb96.png" group-title="LIVE FOOT BALL MATCH", LIVE FOOTBALL  3
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 
 
+# ==================================================
+# LIVE CRICKETS 
+# ==================================================
+#EXTINF:-1 tvg-id="LIVE CRICKETS 1" tvg-name="LIVE CRICKETS 1" tvg-logo="https://i.postimg.cc/vHVzP0Dw/file-0000000012e881f5b7e462b70098f6c0.png" group-title="LIVE CRICKETS MATCH", LIVE CRICKETS 1
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="LIVE CRICKETS 2" tvg-name="LIVE CRICKETS 2" tvg-logo="https://i.postimg.cc/xTzRs6qD/file-0000000002488230bca4cc44e1db3114.png" group-title="LIVE CRICKETS MATCH", LIVE CRICKETS  2
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 
-
+#EXTINF:-1 tvg-id="LIVE CRICKETS 3" tvg-name="LIVE CRICKETS 3" tvg-logo="https://i.postimg.cc/65v0HMqb/file-000000001f208230842043186b405b44.png" group-title="LIVE CRICKETS MATCH", LIVE CRICKETS  3
+https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
