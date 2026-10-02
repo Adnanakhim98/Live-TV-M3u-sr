@@ -298,13 +298,53 @@ https://live.sanandatelevision.in/sananda/tracks-v1a1/mono.m3u8
 https://stream.ottplus.live/live/movie_bangla_abr/index.m3u8
 
 #EXTINF:-1 tvg-name="Sony Max" group-title="Movies",Sony Max
-https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
+https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-name="Sony Max" group-title="Movies",Sony Max-2
+https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+
+
+#EXTINF:-1 tvg-name="Sony Max" group-title="Movies",Sony Max-2
+https://drk6xq0vhn.gpcdn.net/live/max_2_abr/live/max_2_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Goldhhymine.bn" tvg-name="Goldmine Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/9X_Jalwa.png" group-title="Movie",Gold Mine Movie 
 https://cdn-2.pishow.tv/live/1459/master.m3u8  
 
 #EXTINF:-1 tvg-id="goldminemovies" tvg-name="Goldmine Movies" group-title="Movies",Goldmine Movies
 https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
+
+#EXTINF:-1 tvg-name="Goldmines" group-title="Movies",Goldmines
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-name="Goldmines2" group-title="Movies",Goldmines2
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="GOLDMINES ACTION" group-title="Movies",GOLDMINES ACTION
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
+
+#EXTINF:-1 tvg-name="GOLDMINEMOVIES" group-title="Movies",GOLDMINEMOVIES
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-name="GOLDMINES BOLLYWOOD" group-title="Movies",GOLDMINES BOLLYWOOD
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
+
+#EXTINF:-1 tvg-name="Colors Cineplex" group-title="Movies",Colors Cineplex
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:rishteycineplexukdev.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-name="Zee Bangla" group-title="Movies",Zee Bangla
+https://iptvlive.ahmed-bd-org.workers.dev/sananda-tv-1/index.m3u8
+
+#EXTINF:-1 tvg-name="Colors risthey" group-title="Movies",Colors risthey
+https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sony Max" group-title="Movies",Sony Max
+https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-name="Zee Cinema" group-title="Movies",Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
+#EXTINF:-1 tvg-name="Sony Pix" group-title="Movies",Sony Pix
+https://drk6xq0vhn.gpcdn.net/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
 
 
 
