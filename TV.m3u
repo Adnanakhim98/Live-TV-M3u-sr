@@ -300,18 +300,10 @@ https://stream.ottplus.live/live/movie_bangla_abr/index.m3u8
 #EXTINF:-1 tvg-name="Sony Max" group-title="Movies",Sony Max
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
 
-#EXTINF:-1 tvg-name="Sony Max" group-title="Movies",Sony Max-2
-https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
-
 
 #EXTINF:-1 tvg-name="Sony Max" group-title="Movies",Sony Max-2
 https://drk6xq0vhn.gpcdn.net/live/max_2_abr/live/max_2_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Goldhhymine.bn" tvg-name="Goldmine Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/67/9X_Jalwa.png" group-title="Movie",Gold Mine Movie 
-https://cdn-2.pishow.tv/live/1459/master.m3u8  
-
-#EXTINF:-1 tvg-id="goldminemovies" tvg-name="Goldmine Movies" group-title="Movies",Goldmine Movies
-https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
 
 #EXTINF:-1 tvg-name="Goldmines" group-title="Movies",Goldmines
 https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
