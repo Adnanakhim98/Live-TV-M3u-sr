@@ -360,7 +360,7 @@ https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
 #EXTINF:-1 tvg-id="LIVE FOOTBALL 1" tvg-name="LIVE FOOTBALL 1" tvg-logo="https://i.postimg.cc/gjRZKB4F/file-00000000cf7481fd95fef21f3d9c349e.png" group-title="LIVE FOOT BALL MATCH", LIVE FOOTBALL 1
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="LIVE FOOTBALL 2" tvg-name="LIVE FOOTBALL 2" tvg-logo="https://i.postimg.cc/WpJgjhV1/file-00000000865c81f59b902db10ac7d48f.png" group-title="LIVE FOOT BALL MATCH", LIVE FOOTBALL  2
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8
 
 #EXTINF:-1 tvg-id="LIVE FOOTBALL 3" tvg-name="LIVE FOOTBALL 3" tvg-logo="https://i.postimg.cc/MZjVxvwG/file-0000000054e0820b9d1f50d3e9f5fb96.png" group-title="LIVE FOOT BALL MATCH", LIVE FOOTBALL  3
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
