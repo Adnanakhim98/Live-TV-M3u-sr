@@ -443,7 +443,7 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Footlive2509/BEN/master.
 # LIVE CRICKETS 
 # ==================================================
 #EXTINF:-1 tvg-id="LIVE CRICKETS 1" tvg-name="LIVE CRICKETS 1" tvg-logo="https://i.postimg.cc/vHVzP0Dw/file-0000000012e881f5b7e462b70098f6c0.png" group-title="LIVE CRICKETS MATCH", LIVE CRICKETS 1
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+https://live-sg-aws.bongobd.com/hls/v2.R4kxz0aGfBqKUQ8fDBKHtg/1794669658/bongoiptv/SAFFmatch08_mid/chunks.m3u8|User-Agent=iPhone
 #EXTINF:-1 tvg-id="LIVE CRICKETS 2" tvg-name="LIVE CRICKETS 2" tvg-logo="https://i.postimg.cc/xTzRs6qD/file-0000000002488230bca4cc44e1db3114.png" group-title="LIVE CRICKETS MATCH", LIVE CRICKETS  2
 https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 
