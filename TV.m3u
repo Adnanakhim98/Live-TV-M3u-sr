@@ -456,7 +456,7 @@ https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
 #EXTINF:-1 tvg-id="LIVE CRICKETS 3" tvg-name="LIVE CRICKETS 3" tvg-logo="https://i.postimg.cc/65v0HMqb/file-000000001f208230842043186b405b44.png" group-title="LIVE CRICKETS MATCH", LIVE CRICKETS  3
-https://saseries.akamaized.net/hls/live/2110097/2353jkiL-tapmad/master.m3u8
+https://live-sg-aws.bongobd.com/hls/v2.R4kxz0aGfBqKUQ8fDBKHtg/1794669658/bongoiptv/SAFFmatch08_mid/chunks.m3u8|User-Agent=iPhone
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/EUROPEAN%20T20%20Vs%20Premier%20League%20T20.jpg" group-title="Cricket", EUROPEAN T20 Vs Premier League T20 - WILLOW SPORTS
